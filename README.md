@@ -4,7 +4,7 @@ A responsive one-page landing page for a hosting company, built with Tailwind CS
 
 ## 🚀 Live Demo
 
-[Link to your live demo](https://your-live-demo-link.com)
+[Link to your live demo](https://hosterr-site.vercel.app/)
 
 ## 📸 Screenshots
 
