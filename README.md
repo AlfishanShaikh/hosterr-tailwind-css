@@ -34,7 +34,7 @@ You need to have Node.js and npm installed on your machine.
 
 1.  **Clone the repo**
     ```sh
-    git clone [https://github.com/AlfishanShaikh/hosterr-tailwind-css.git](https://github.com/AlfishanShaikh/hosterr-tailwind-css.git)
+    git clone https://github.com/AlfishanShaikh/hosterr-tailwind-css.git
     ```
 2.  **Navigate to the project directory**
     ```sh
